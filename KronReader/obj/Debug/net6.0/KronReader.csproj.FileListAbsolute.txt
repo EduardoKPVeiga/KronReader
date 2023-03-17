@@ -1,0 +1,15 @@
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\bin\Debug\net6.0\KronReader.exe
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\bin\Debug\net6.0\KronReader.deps.json
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\bin\Debug\net6.0\KronReader.runtimeconfig.json
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\bin\Debug\net6.0\KronReader.dll
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\bin\Debug\net6.0\KronReader.pdb
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\KronReader.csproj.AssemblyReference.cache
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\KronReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\KronReader.AssemblyInfoInputs.cache
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\KronReader.AssemblyInfo.cs
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\KronReader.csproj.CoreCompileInputs.cache
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\KronReader.dll
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\refint\KronReader.dll
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\KronReader.pdb
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\KronReader.genruntimeconfig.cache
+C:\Users\Hardware 2\source\repos\KronReader\KronReader\obj\Debug\net6.0\ref\KronReader.dll
