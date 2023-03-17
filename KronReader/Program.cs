@@ -10,7 +10,7 @@ public class SocketListener
 {
     public static int Main(String[] args)
     {
-        StartServer();
+        StartServer(5656);
         return 0;
     }
 }
