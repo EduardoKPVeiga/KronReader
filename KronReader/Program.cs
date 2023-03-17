@@ -51,7 +51,10 @@ public class SocketListener
                 }
             }
 
-            Console.WriteLine("Text received : {0}", data);
+            int index = data.LastIndexOf("*");
+            data = data.Remove(index);
+
+            Console.WriteLine("New IP received : {0}", data);
 
             byte[] msg = Encoding.ASCII.GetBytes(data);
             handler.Send(msg);
